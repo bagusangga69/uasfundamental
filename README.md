@@ -1,0 +1,2 @@
+# uasfundamental
+tugas uas fundamental
